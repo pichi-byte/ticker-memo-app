@@ -1,0 +1,7 @@
+```txt
+streamlit
+pandas
+numpy
+yfinance
+python-dotenv
+requests
