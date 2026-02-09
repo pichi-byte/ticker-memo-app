@@ -1,0 +1,21 @@
+[
+    {
+        "ticker": "PLTR",
+        "company": "Palantir Technologies Inc.",
+        "conviction": 1
+    },
+    {
+        "ticker": "MSFT",
+        "company": "Microsoft Corporation",
+        "conviction": 1.7
+    },
+    {
+        "ticker": "NVDA",
+        "company": "NVIDIA Corporation",
+        "conviction": 6.3
+    },
+    {
+        "ticker": "PLTR",
+        "conviction": 1
+    }
+]
