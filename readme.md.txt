@@ -11,6 +11,34 @@ Built as a portfolio project to demonstrate:
 - Python project structuring
 
 ---
+## 💼 Purpose
+
+This project is intended as:
+
+- A portfolio project
+- A demonstration of applied Python engineering
+- A financial modeling showcase
+- A Streamlit production example
+
+---
+
+## ⚠️ Disclaimer
+
+This application is:
+
+- Not financial advice
+- Not production trading software
+- Not using real-time brokerage systems
+
+It is purely an educational and engineering demonstration.
+
+---
+
+## 👤 Author
+
+Developed by Jose Luis Alvarez
+
+For job applications, portfolio demonstrations, and technical learning.
 
 ## 🚀 Features
 
